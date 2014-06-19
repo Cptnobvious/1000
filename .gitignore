@@ -1,3 +1,11 @@
+########
+#Skip these they're incomplete
+########
+
+*.psd
+*.png
+
+
 #################
 ## Eclipse
 #################
